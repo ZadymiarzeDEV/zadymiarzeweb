@@ -1,2 +1,4 @@
-# zadymiarzeweb
-Website from site zadymiarze.live ( done in 15 minutes lol)
+site made under 15 minutes lol
+
+quality btw
+https://zadymiarze.live/

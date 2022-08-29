@@ -1,0 +1,4 @@
+function opendiscord() {
+    console.log('test')
+    window.open('https://discord.gg/5rfWSq2dpQ')
+}
